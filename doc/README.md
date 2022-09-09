@@ -20,10 +20,26 @@
 
 ## Installation
 
+## Description
+
 ## Planning
 
-### Persona
+### Requirements
 
+
+| Nomber | Must? Can? | Quality, Functional, Extra | Description                            |
+| -------- | ------------ | ---------------------------- | ---------------------------------------- |
+| 1      | Must       | Functional                 | A stoy for our game has to be creaded  |
+| 2      | Must       | Funktional                 | Messeges have to be written            |
+| 3      | Must       | Functional                 | a) Write Instruction / story mode text |
+| 4      | Must       | Functional                 | b) Write messege text                  |
+| 5      | Must       | Functional                 | c) write possible answers for the user |
+| 6      | Must       | Functional                 | create the story mode                  |
+| 7      | Must       | Functional                 | Create the messege mode                |
+| 8      | Must       | Functional                 | create a plan of the gameprocess       |
+| 9      | Must       | Quality                    | The game process must be saved         |
+
+### Persona
 
 ![](assets/20220909_100247_image.png)
 
@@ -111,7 +127,6 @@ Ciel used to get bullied for being too feminine and weird. His classmates would 
 
 ---
 
-
 #### Information
 
 Age: 24
@@ -146,7 +161,7 @@ Gender: Male
 
 #### Story
 
-Stellan used to be abused by both of his parents all his life back when he lived with his parents. He ran away from home as soon as he turned 18 and the leader (?) of the SIA he took him and trained him personally. He suffers from depression and has issues with selfharm. Therefore he has a lot of scars on his arms and thighs from selfharming and a few on his back from his parents, which is why he always wears long sleeved clothes. 
+Stellan used to be abused by both of his parents all his life back when he lived with his parents. He ran away from home as soon as he turned 18 and the leader (?) of the SIA he took him and trained him personally. He suffers from depression and has issues with selfharm. Therefore he has a lot of scars on his arms and thighs from selfharming and a few on his back from his parents, which is why he always wears long sleeved clothes.
 
 #### Route & Endings
 
@@ -157,7 +172,6 @@ Stellan used to be abused by both of his parents all his life back when he lived
 ##### Bad ending
 
 #### Character Design
-
 
 ![](assets/20220909_094452_image.png)
 
@@ -173,7 +187,6 @@ Stellan used to be abused by both of his parents all his life back when he lived
 ### Jude (Not filled out)
 
 ---
-
 
 #### Information
 
@@ -210,7 +223,6 @@ Gender: Female
 
 #### Character Design
 
-
 ![](assets/20220909_095240_image.png)
 
 #### Interests & hobbies
@@ -218,8 +230,6 @@ Gender: Female
 ### Blake (Not filled out)
 
 ---
-
-
 
 #### Information
 
@@ -262,7 +272,6 @@ Gender: Male
 
 ---
 
-
 #### Information
 
 Age: 21
@@ -299,7 +308,6 @@ Gender: Male
 #### Character Design
 
 #### Interests & hobbies
-
 
 ## Design
 
