@@ -1,4 +1,4 @@
-# **Otome Game Project Documentation**
+# **Incidentally in love Documentation**
 
 > by Eslem Akdemir, Elisa Petit-Sirigu, Marton Naray, Sandro Casadei, Nico Delvecchio, Dominik Kreiselmaier, Ahmad Becirovic
 
