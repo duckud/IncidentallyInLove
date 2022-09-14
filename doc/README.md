@@ -30,7 +30,7 @@
 | Nomber | Must? Can? | Quality, Functional, Extra | Description                            |
 | -------- | ------------ | ---------------------------- | ---------------------------------------- |
 | 1      | Must       | Functional                 | A stoy for our game has to be creaded  |
-| 2      | Must       | Funktional                 | Messeges have to be written            |
+| 2      | Must       | Functional                 | Messeges have to be written            |
 | 3      | Must       | Functional                 | a) Write Instruction / story mode text |
 | 4      | Must       | Functional                 | b) Write messege text                  |
 | 5      | Must       | Functional                 | c) write possible answers for the user |
