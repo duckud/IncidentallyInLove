@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="7F60484B2698FA23">
+  <PROJECT FORMAT="1.00" NAME="incidentallyInLove" AUTHOR="Elisa" CREATED="2022.09.16 08:29:11" MODIFIED="2022.09.16 09:14:51">
+    <DIAGRAMS>
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="IncidentallyInLove" CREATED="2022.09.16 08:29:26" MODIFIED="2022.09.16 09:14:51">
+        <LAYOUT FORMAT="1.00" COLUMNS="4" ROWS="23">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="14">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="54">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="15">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="52">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[IncidentallyInLove]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="2">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Game is started]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="3">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="61">
+                <TEXT><![CDATA[Does the user have an account?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="4">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Login home page]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="5">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="10">
+                <TEXT><![CDATA[Login data]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="6">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="12">
+                <TEXT><![CDATA[The main page of the game opens]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="7">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="14">
+                <TEXT><![CDATA[User klicks on chatrooms on the bottom right]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="8">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="16">
+                <TEXT><![CDATA[Chatroom subpage opens]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="9">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="18">
+                <TEXT><![CDATA[User chooses a story]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="10">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="20">
+                <TEXT><![CDATA[chosen story starts]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="11">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="22">
+                <TEXT><![CDATA[The story begins]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="12">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="24">
+                <TEXT><![CDATA[Text in form of a message]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="13">
+              <FIGURE SUBTYPE="PapLoopStart" FORMAT="1.00" ID="26" ASSOCIATE="28">
+                <TEXT><![CDATA[Chatroom]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="30">
+                <TEXT><![CDATA[Programmed messages are displayed]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="15">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="32">
+                <TEXT><![CDATA[Is the user capable to answer?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="19">
+              <FIGURE SUBTYPE="PapLoopEnd" FORMAT="1.00" ID="28" ASSOCIATE="26">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="20">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="68">
+                <TEXT><![CDATA[User can close the chatroom]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="21">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="59">
+                <TEXT><![CDATA[Game process is saved]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="22">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="3">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="63">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="6">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="65">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="15">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="35">
+                <TEXT><![CDATA[Possible answers for the user are displayed]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="16">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="34">
+                <TEXT><![CDATA[Usere can klick on one of the given answers]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="17">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="38">
+                <TEXT><![CDATA[The selected message appears in the chatroom]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="18">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="39">
+                <TEXT><![CDATA[Programmed characters react]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="19">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="42">
+                <TEXT><![CDATA[Is the chatroom over?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="13">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="49">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="19">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="47">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="4" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="61" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="10" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="11" FROM="10" TO="12" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="13" FROM="12" TO="14" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="15" FROM="14" TO="16" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="17" FROM="16" TO="18" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="19" FROM="18" TO="20" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="21" FROM="20" TO="22" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="23" FROM="22" TO="24" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="25" FROM="24" TO="26" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="46" FROM="42" TO="28" TEXT="yes" />
+          <CONNECTION FORMAT="1.00" ID="27" FROM="26" TO="30" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="31" FROM="30" TO="32" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="62" FROM="61" TO="6" TEXT="no" />
+          <CONNECTION FORMAT="1.00" ID="36" FROM="32" TO="35" TEXT="yes" />
+          <CONNECTION FORMAT="1.00" ID="37" FROM="35" TO="34" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="40" FROM="34" TO="38" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="41" FROM="38" TO="39" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="43" FROM="39" TO="42" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="70" FROM="59" TO="2" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="48" FROM="42" TO="47" TEXT="no" />
+          <CONNECTION FORMAT="1.00" ID="50" FROM="47" TO="49" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="51" FROM="49" TO="26" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="53" FROM="32" TO="52" TEXT="no" />
+          <CONNECTION FORMAT="1.00" ID="55" FROM="52" TO="54" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="56" FROM="54" TO="30" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="69" FROM="68" TO="59" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="64" FROM="61" TO="63" TEXT="yes" />
+          <CONNECTION FORMAT="1.00" ID="66" FROM="63" TO="65" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="67" FROM="65" TO="12" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="45" FROM="28" TO="68" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+    </DIAGRAMS>
+  </PROJECT>
+</FRAME>
