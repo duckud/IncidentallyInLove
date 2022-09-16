@@ -28,8 +28,6 @@
 
 ![](assets/20220909_100247_image.png)
 
-### UML
-
 ### Flowchart
 
 ### Mockup (not fully finished, but enough for now)
