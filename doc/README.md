@@ -24,21 +24,6 @@
 
 ## Planning
 
-### Requirements
-
-
-| Nomber | Must? Can? | Quality, Functional, Extra | Description                            |
-| -------- | ------------ | ---------------------------- | ---------------------------------------- |
-| 1      | Must       | Functional                 | A stoy for our game has to be creaded  |
-| 2      | Must       | Functional                 | Messeges have to be written            |
-| 3      | Must       | Functional                 | a) Write Instruction / story mode text |
-| 4      | Must       | Functional                 | b) Write messege text                  |
-| 5      | Must       | Functional                 | c) write possible answers for the user |
-| 6      | Must       | Functional                 | create the story mode                  |
-| 7      | Must       | Functional                 | Create the messege mode                |
-| 8      | Must       | Functional                 | create a plan of the gameprocess       |
-| 9      | Must       | Quality                    | The game process must be saved         |
-
 ### Persona
 
 ![](assets/20220909_100247_image.png)
@@ -322,5 +307,31 @@ Gender: Male
 ## Programming
 
 ### Requierements
+
+
+| Nomber | Must? Can? | Quality, Functional, Extra | Description                            |
+| -------- | ------------ | ---------------------------- | ---------------------------------------- |
+| 1      | Must       | Functional                 | A stoy for our game has to be creaded  |
+| 2      | Must       | Functional                 | Messeges have to be written            |
+| 3      | Can        | Functional                 | a) Write Instruction / story mode text |
+| 4      | Must       | Functional                 | b) Write messege text                  |
+| 5      | Must       | Functional                 | c) write possible answers for the user |
+| 6      | Can        | Functional                 | create the story mode                  |
+| 7      | Must       | Functional                 | Create the messege mode                |
+| 8      | Must       | Functional                 | Create a plan of the gameprocess       |
+| 9      | Must       | Quality                    | The game process must be saved         |
+
+### Work packages
+
+
+| Number | Time period   | Description                                          | Planned time |
+| :------- | --------------- | ------------------------------------------------------ | :------------- |
+| 1      | 16.09 - 23.09 | The start of the stoy for our game has to be creaded | 80 min       |
+| 2      | 30.09 - 07.10 | Messeges have to be written                          | 90 min       |
+| 4      | 30.09 - 07.10 | Write messege text                                   | 30 min       |
+| 5      | 30.09 - 07.10 | write possible answers for the user                  | 30 min       |
+| 7      | 16.09 - 30.09 | Create the messege mode                              | 5 h          |
+| 8      | 16.09 - 30.09 | Create a plan of the gameprocess                     | 60 min       |
+| 9      | 07.10 - 14.10 | The game process must be saved                       | 40 min       |
 
 ### Testing
