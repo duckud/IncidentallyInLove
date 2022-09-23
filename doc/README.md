@@ -65,6 +65,8 @@ Zodiac sign: Aries
 
 Gender: Male
 
+Height: 179cm 
+
 #### Personality
 
 * ENFP
@@ -121,6 +123,8 @@ Birthdate: 12. July
 Zodiac sign: Cancer
 
 Gender: Male
+
+Height: 184cm
 
 #### Personality
 
@@ -183,6 +187,8 @@ Zodiac sign: Aries
 
 Gender: Female
 
+Height: 164cm
+
 #### Personality
 
 #### Love Language test
@@ -210,6 +216,9 @@ Gender: Female
 
 ![](assets/20220909_095240_image.png)
 
+
+![](assets/20220916_111459_image.png)
+
 #### Interests & hobbies
 
 ### Blake (Not filled out)
@@ -225,6 +234,8 @@ Birthdate: 7. April
 Zodiac sign: Aries
 
 Gender: Male
+
+Height: 192cm
 
 #### Personality
 
@@ -250,6 +261,14 @@ Gender: Male
 ##### Bad ending
 
 #### Character Design
+
+
+![](assets/20220916_111409_image.png)
+
+
+![](assets/20220916_111432_image.png)
+
+-Note to outfit: He wears some type of chest belt, which I couldn't find a picture of
 
 #### Interests & hobbies
 
@@ -267,6 +286,8 @@ Zodiac sign: Aries
 
 Gender: Male
 
+Height: 187cm
+
 #### Personality
 
 #### Love Language test
@@ -291,6 +312,59 @@ Gender: Male
 ##### Bad ending
 
 #### Character Design
+
+
+![](assets/20220916_111631_image.png)
+
+#### Interests & hobbies
+
+
+
+### Athena (Not filled out)
+
+---
+
+#### Information
+
+Age: 21
+
+Birthdate: 7. April
+
+Zodiac sign: Aries
+
+Gender: Male
+
+Height: 187cm
+
+#### Personality
+
+#### Love Language test
+
+
+| Love Language        | Percentage |
+| ---------------------- | ------------ |
+| Words of affirmation | 40%        |
+| Physical touch       | 27%        |
+| Quality time         | 23%        |
+| Acts of service      | 7%         |
+| Receiving gifts      | 3%         |
+
+#### Story
+
+#### Route & Endings
+
+##### Good ending
+
+##### Normal ending
+
+##### Bad ending
+
+#### Character Design
+
+![](assets/20220916_111720_image.png)
+
+
+![](assets/20220916_111751_image.png)
 
 #### Interests & hobbies
 
