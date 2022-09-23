@@ -38,16 +38,39 @@
 
 ### Ideas
 
-* The characters are part of a secret intelligence agency (SIA) and the MC is a victim stalking that gets attacked one night and Ciel saves her and brings her to the headquarters of the SIA
-* The MC unkowingly is the child of the villain of the story
-* The stalker is actually a subordinate of the dad (aka villain) and the dad doesn't know that the child is alive but the subordniate does
-* The stalker (yuki) is actually in "love" with the MC which is the reason he is risking getting in trouble by not telling the MC's dad that they're still alive
-* The dad wants the MC dead because he sees family as a weakness
-* The SIA tries to help her and they then uncover the truth about the MC (which the MC isn't even aware of) and momentarily think of them as a traitor
+* Athena or Blake will interrogate or test the MC atleast once
+* Jude explains everything about computers and datas
+* Stellan explains everything about their missions and how they work
+* Ciel teaches them basic self-defense and shows them around the headquarters
+* Athena, Blake and Yuki will be dateable in the second story
+* Athena teaches them the most important things about the SIA
+* Blake shares the office with them so they can ask him questions anytime
+* Yuki tries to kidnap them or convince them to leave the SIA multiple times so they spend time together that way
+* The MC is androgynous, all the drawings of them and the characters together will be drawn from the MC's POV, if I have to draw hands or clothes I will try to make them as androgynous as possible. This way everyone will be comfortable playing the game reagrdless of their gender and how they look. The characters will not describe the MC's appearance so the way they look is completely up to the players imagination. The characters will not call the MC anything "gendered".
 
 ### Script
 
 ### Plot
+
+The beginning:
+
+- The MC sent an application to Blakes company
+- Athena (Blake's sister, who "collected" everyone from the SIA and created it) finds the application at Blakes house
+- Athena decides to take MC in as part of the SIA
+- The MC doesn't know anything about that, she only gets told that she got the job and gets told to meet Blake and Athena at a certain time and date
+- When the MC arrives at the place, Athena and Blake take her to the headquarters of the SIA where she meets all of the members
+- The Characters work at a secret intelligence agency called the SIA and the MC is now part of the group by accepting their invitation (if she rejects it there's a bad ending)
+- All the members of the group explain the work to her, the first one to explain would be Jude, since she's the one that works with computer and there would be a built in tutorial in her part (how to use the app)
+- The MC got invited to the SIA due to her high intelligence, however she's really weak
+- All of the characters have their own office (a room) within the headquarters and since Blake is rarely there she shares an office with him (for romance purposes, he starts visiting the headquarters to "work" but in reality he just wants to get to know the MC better <3)
+- Theres alos some sort of dorm built in the headquarters and all the characters live there, they all have their own rooms but they're free to do whatever they want even at night as long as they get their work down or don't disturb anyone (again, this is for romance purposes)
+
+The "bigger" story:
+
+* The MC has a stalkers who actually works for the main antagonist of the story, the stalker is described as the villain until you actually get to know his story, he disturbs her work and tries to kidnap her etc as a way to protect her from his boss but unless you're in his route you won't know that. You will mainly think he's creepy and unreasonable.
+* The MC goes on missions with each of the characters depending on the route she's in, the way the route is decided during the phase when they all describe her how the SIA works etc, if she says/writes something the characters like she gets added 1 likability point, the character who earned the most likability points is the character whose route the MC will be in. Theres a minimum amount of likability points the MC has to receive by atleast one of the dateable characters in order to get a route.
+* The stories of the routes itself will be written in the documentation within each characters' description
+* idk what the antagonist did yet
 
 ## Characters
 
@@ -65,7 +88,7 @@ Zodiac sign: Aries
 
 Gender: Male
 
-Height: 179cm 
+Height: 179cm
 
 #### Personality
 
@@ -88,7 +111,7 @@ Height: 179cm
 
 #### Story
 
-Ciel used to get bullied for being too feminine and weird. His classmates would discreetly hit him and lock him up in small spaces and throw things at him. One time one of his bullies injured his forhead which caused a scar that is visible even now but that was the last straw for Ciel and he fought back for the first time. Nowadays he has severe anger issues that are caused by his past trauma.
+Ciel used to get bullied for being too feminine and weird. His classmates would discreetly hit him and lock him up in small spaces and throw things at him. One time one of his bullies injured his forhead which caused a scar that is visible even now but that was the last straw for Ciel and he fought back for the first time. Nowadays he has severe anger issues that are caused by his past trauma. He tends to be very impuslive which causes a lot of issues in his everyday life. You get in his route by getting likability points from him while he teaches you self-defence and shows you around the headquarters. You can also receive likability points during chatrooms. 
 
 #### Route & Endings
 
@@ -216,7 +239,6 @@ Height: 164cm
 
 ![](assets/20220909_095240_image.png)
 
-
 ![](assets/20220916_111459_image.png)
 
 #### Interests & hobbies
@@ -227,7 +249,7 @@ Height: 164cm
 
 #### Information
 
-Age: 21
+Age: 25
 
 Birthdate: 7. April
 
@@ -262,9 +284,7 @@ Height: 192cm
 
 #### Character Design
 
-
 ![](assets/20220916_111409_image.png)
-
 
 ![](assets/20220916_111432_image.png)
 
@@ -313,12 +333,9 @@ Height: 187cm
 
 #### Character Design
 
-
 ![](assets/20220916_111631_image.png)
 
 #### Interests & hobbies
-
-
 
 ### Athena (Not filled out)
 
@@ -362,7 +379,6 @@ Height: 187cm
 #### Character Design
 
 ![](assets/20220916_111720_image.png)
-
 
 ![](assets/20220916_111751_image.png)
 
