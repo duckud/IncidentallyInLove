@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/incidentallyInLove.unity
+    guid: a3a0d08596d2c8e43850f37fdbd3cf57
+  - enabled: 1
+    path: Assets/Scenes/ComingSoonScene.unity
+    guid: 14f670d1fb7e9c74eb03bd5e5bf267fb
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c48bad025cb1b4846a4c816c16905715, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 12e63eb3ba8cd1948913ff440474fb6b, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 2ea68e328b9896345b249167d5c7c22b, type: 2}
