@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73bffb575d8cdcf42ba34ef7f5c34fae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialoguePanel: {instanceID: 0}
+  - continueIcon: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - displayNameText: {instanceID: 0}
+  - portraitAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
