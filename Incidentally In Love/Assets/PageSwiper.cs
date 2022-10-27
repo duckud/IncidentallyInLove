@@ -10,6 +10,7 @@ public class PageSwiper : MonoBehaviour, IDragHandler, IEndDragHandler
     public float easing = 0.5f;
     public int totalPages = 1;
     private int currentPage = 1;
+    int currentChild;
 
     // Start is called before the first frame update
     void Start()
@@ -27,15 +28,15 @@ public class PageSwiper : MonoBehaviour, IDragHandler, IEndDragHandler
         if (Mathf.Abs(percentage) >= percentThreshold)
         {
             Vector3 newLocation = panelLocation;
-            if (percentage > 0 && currentPage < totalPages)
+            if (percentage > 0 && currentChild < transform.childCount - 1)
             {
-                currentPage++;
                 newLocation += new Vector3(-Screen.width, 0, 0);
+                currentChild++;
             }
-            else if (percentage < 0 && currentPage > 1)
+            else if (percentage < 0 && currentChild > 0)
             {
-                currentPage--;
                 newLocation += new Vector3(Screen.width, 0, 0);
+                currentChild--;
             }
             StartCoroutine(SmoothMove(transform.position, newLocation, easing));
             panelLocation = newLocation;
