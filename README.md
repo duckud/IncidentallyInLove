@@ -135,9 +135,9 @@ Ciel used to get bullied for being too feminine and weird. His classmates would 
 #### Character Design
 
 
-![](assets/20221216_085835_ciel.png)
+![](../otomeGame/images/ciel.png)
 
-![](assets/20221216_085848_cielFit.PNG)
+![](../otomeGame/images/cielFit.PNG)
 
 #### Interests & hobbies
 
@@ -198,9 +198,9 @@ Stellan used to be abused by both of his parents all his life back when he lived
 #### Character Design
 
 
-![](assets/20221216_085917_stellan.png)
+![](../otomeGame/images/stellan.png)
 
-![](assets/20221216_085932_stellanFit.PNG)
+![](../otomeGame/images/stellanFit.PNG)
 
 #### Interests & hobbies
 
@@ -252,9 +252,9 @@ Height: 164cm
 #### Character Design
 
 
-![](assets/20221216_090007_jude.png)
+![](../otomeGame/images/jude.png)
 
-![](assets/20221216_090021_judeFit.PNG)
+![](../otomeGame/images/judeFit.PNG)
 
 #### Interests & hobbies
 
@@ -300,9 +300,9 @@ Height: 192cm
 #### Character Design
 
 
-![](assets/20221216_090035_blake.png)
+![](../otomeGame/images/blake.png)
 
-![](assets/20221216_090117_blakeFit.PNG)
+![](../otomeGame/images/blakeFit.PNG)
 
 -Note to outfit: He wears some type of chest belt, which I couldn't find a picture of
 
@@ -349,7 +349,7 @@ Height: 187cm
 
 #### Character Design
 
-![](assets/20221216_090134_yuki.png)
+![](../otomeGame/images/yuki.png)
 
 #### Interests & hobbies
 
@@ -395,9 +395,9 @@ Height: 187cm
 #### Character Design
 
 
-![](assets/20221216_090156_athena.png)
+![](../otomeGame/images/athena.png)
 
-![](assets/20221216_090213_athenaFit.PNG)
+![](../otomeGame/images/athenaFit.PNG)
 
 #### Interests & hobbies
 
