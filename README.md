@@ -37,7 +37,7 @@ Otome Game project for school
 ### Persona
 
 
-![](assets/20221216_090851_persona.PNG)
+![](../otomeGame/images/persona.PNG)
 
 ### Flowchart
 
@@ -405,8 +405,6 @@ Height: 187cm
 
 ### Color Palette
 
-
-![](assets/20221216_080101_image.png)
 
 ### Chatrooms
 
