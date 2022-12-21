@@ -36,8 +36,7 @@ Otome Game project for school
 
 ### Persona
 
-
-![](../otomeGame/images/persona.PNG)
+![](assets/20221221_144401_persona.PNG)
 
 ### Flowchart
 
@@ -135,9 +134,9 @@ Ciel used to get bullied for being too feminine and weird. His classmates would 
 #### Character Design
 
 
-![](../otomeGame/images/ciel.png)
+![](assets/20221221_144415_ciel.png)
 
-![](../otomeGame/images/cielFit.PNG)
+![](assets/20221221_144428_cielFit.PNG)
 
 #### Interests & hobbies
 
@@ -198,9 +197,9 @@ Stellan used to be abused by both of his parents all his life back when he lived
 #### Character Design
 
 
-![](../otomeGame/images/stellan.png)
+![](assets/20221221_144442_stellan.png)
 
-![](../otomeGame/images/stellanFit.PNG)
+![](assets/20221221_144449_stellanFit.PNG)
 
 #### Interests & hobbies
 
@@ -252,9 +251,9 @@ Height: 164cm
 #### Character Design
 
 
-![](../otomeGame/images/jude.png)
+![](assets/20221221_144508_jude.png)
 
-![](../otomeGame/images/judeFit.PNG)
+![](assets/20221221_144517_judeFit.PNG)
 
 #### Interests & hobbies
 
@@ -300,9 +299,9 @@ Height: 192cm
 #### Character Design
 
 
-![](../otomeGame/images/blake.png)
+![](assets/20221221_144528_blake.png)
 
-![](../otomeGame/images/blakeFit.PNG)
+![](assets/20221221_144537_blakeFit.PNG)
 
 -Note to outfit: He wears some type of chest belt, which I couldn't find a picture of
 
@@ -349,7 +348,7 @@ Height: 187cm
 
 #### Character Design
 
-![](../otomeGame/images/yuki.png)
+![](assets/20221221_144549_yuki.png)
 
 #### Interests & hobbies
 
@@ -395,16 +394,15 @@ Height: 187cm
 #### Character Design
 
 
-![](../otomeGame/images/athena.png)
+![](assets/20221221_144559_athena.png)
 
-![](../otomeGame/images/athenaFit.PNG)
+![](assets/20221221_144604_athenaFit.PNG)
 
 #### Interests & hobbies
 
 ## Design
 
 ### Color Palette
-
 
 ### Chatrooms
 
