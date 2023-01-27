@@ -445,6 +445,10 @@ PrefabInstance:
       value: ButtonScene, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 2961165476054294368, guid: 22daa04063f1ab84bacd053ef2953724, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2961165476054294368, guid: 22daa04063f1ab84bacd053ef2953724, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
@@ -669,7 +673,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6294753201285662943, guid: b307e5e8f59825041b65c4d54ca5ed83, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b307e5e8f59825041b65c4d54ca5ed83, type: 3}

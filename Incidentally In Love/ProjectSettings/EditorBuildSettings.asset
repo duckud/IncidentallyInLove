@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chatrooms.unity
     guid: 17d5ec8c5e38d9f49822a3028ce2faf2
+  - enabled: 1
+    path: Assets/Scenes/Chatroom day x.unity
+    guid: f0fdbb490548aeb408e7f5dcc828abb0
+  - enabled: 1
+    path: Assets/Scenes/Chatroom.unity
+    guid: 8fded7fe7318caf498aec3e71a44ad41
   m_configObjects: {}

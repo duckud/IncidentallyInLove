@@ -539,6 +539,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6294753201285662943, guid: b307e5e8f59825041b65c4d54ca5ed83, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: MoveToScene
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b307e5e8f59825041b65c4d54ca5ed83, type: 3}
 --- !u!224 &252787951 stripped
@@ -2839,7 +2843,7 @@ PrefabInstance:
     - target: {fileID: 4302144469426261658, guid: 0762d2ede3dcbc84e8bb66320e2fb542, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1420827860}
+      objectReference: {fileID: 1634082973}
     - target: {fileID: 4302144469426261658, guid: 0762d2ede3dcbc84e8bb66320e2fb542, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
