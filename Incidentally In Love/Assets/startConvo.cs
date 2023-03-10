@@ -9,5 +9,8 @@ public class startConvo : MonoBehaviour
 
     public NPCConversation myConversation;
 
-    OnLoad(ConversationManager.Instance.StartConversation(myConversation));
+    void Awake()
+    {
+        ConversationManager.Instance.StartConversation(myConversation);
+    }
 }
