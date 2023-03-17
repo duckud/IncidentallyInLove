@@ -9,7 +9,7 @@ public class startConvo : MonoBehaviour
 
     public NPCConversation myConversation;
 
-    void Awake()
+    void Start()
     {
         ConversationManager.Instance.StartConversation(myConversation);
     }
